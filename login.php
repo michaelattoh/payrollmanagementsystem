@@ -5,8 +5,10 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Employee's Payroll Management System</title>
- 	
+  <title>Accounts Pro</title>
+ 
+ <!-- Favicon -->
+ <link rel="shortcut icon" href="./assets/img/logo.png" />
 
 <?php include('./header.php'); ?>
 <?php include('./db_connect.php'); ?>
