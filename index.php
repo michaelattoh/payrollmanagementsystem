@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Admin | Employee's Payroll Management System</title>
+  <title>Employee's Payroll Management System</title>
  	
 
 <?php
@@ -14,6 +14,8 @@
     header('location:login.php');
  include('./header.php'); 
  // include('./auth.php'); 
+
+ 
  ?>
 
 </head>
